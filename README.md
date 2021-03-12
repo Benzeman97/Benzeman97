@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Benzeman97
 - 👀 I’m interested in Programming with solving challenges day by day
-- 🌱 I’m currently learning everythin which is new
+- 🌱 I’m currently learning everything which is new
 - 💞️ I’m looking to collaborate on Opensource Product when i am free
 - 📫 You can reach me using one of the following way
  Stackoverflow - https://stackoverflow.com/users/11385485/nafazbenzema?tab=profile
